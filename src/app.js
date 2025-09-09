@@ -38,7 +38,7 @@ const allowedOrigins = [
   "http://127.0.0.1:5500",
   "https://chatbot-qqsq.onrender.com",
   "https://livechat-1xfh.onrender.com",
-  "https://chatapp-1tkn.onrender.com/"
+  "https://chatapp-1tkn.onrender.com"
 ];
 
 // ✅ Common CORS check
